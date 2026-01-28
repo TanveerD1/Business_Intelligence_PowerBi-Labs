@@ -4,6 +4,15 @@
 - **Name:** Tanveer 752
 - **Course:** Business Intelligence
 
+## 🚀 LIVE INTERACTIVE DASHBOARD (POWER BI SERVICE)
+
+👉 **Click here to view the published interactive dashboard:**  
+🔗 **https://app.powerbi.com/groups/me/reports/28562300-039e-4b12-af23-b08273465ea9/964cc932e6a00dd50d4c?experience=power-bi**
+
+> *Note: You may be required to sign in with a Microsoft account to view the report.*
+
+---
+
 ## Overview
 This project demonstrates the creation of a professional sales performance dashboard in Power BI Desktop. The dashboard provides comprehensive insights into sales metrics, regional performance, and product trends through interactive visualizations and multiple filtering dimensions.
 
