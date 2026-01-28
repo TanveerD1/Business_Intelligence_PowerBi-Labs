@@ -15,6 +15,7 @@
 
 ## Overview
 This project demonstrates the creation of a professional sales performance dashboard in Power BI Desktop. The dashboard provides comprehensive insights into sales metrics, regional performance, and product trends through interactive visualizations and multiple filtering dimensions.
+![alt text](image.png)
 
 ## Getting Started
 
