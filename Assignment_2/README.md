@@ -1,3 +1,4 @@
+
 # **Assignment 2 – Business Intelligence Report**
 
 ## **Power Query Data Preparation Lab**
@@ -29,8 +30,7 @@ I classified the queries as follows:
 * **stagedRegions** → Lookup Table (country-to-region mapping)
 
 📌 **Screenshot 1 (Task 1): Query Organization**
-➡️ Insert screenshot showing the Power Query left panel with renamed queries (stagedSales, stagedProducts, stagedRegions).
-
+![alt text](image.png)
 ---
 
 ---
@@ -71,13 +71,13 @@ This helped identify multiple data issues.
 To handle invalid quantities, I created a flag column using an IF condition:
 
 * Quantity < 0 → Invalid
-* Else → OK
+* Else → Valid
 
 📌 **Screenshot 2 (Task 2): Column Profiling Evidence**
-➡️ Insert screenshot showing Column Quality/Distribution on stagedSales.
+![alt text](image-1.png)
 
 📌 **Screenshot 3 (Task 2): Flag Column Step**
-➡️ Screenshot of the conditional column creation or Applied Steps showing Flag_InvalidQty.
+![alt text](image-2.png)
 
 ---
 
@@ -94,7 +94,7 @@ I removed irrelevant columns such as:
 * Sales Rep (not required for analysis)
 
 📌 **Screenshot 4 (Task 3): Removed Columns Step**
-➡️ Screenshot of Applied Steps showing “Removed Columns”.
+![alt text](image-3.png)
 
 ---
 
@@ -109,8 +109,7 @@ I applied **Trim** and **Clean** transformations to multiple text fields:
 * Branch → Cleaned, Trimmed, Capitalized Each Word
 
 📌 **Screenshot 5 (Task 3): Text Cleaning Step**
-➡️ Screenshot showing Transform → Format → Trim/Clean applied.
-
+![alt text](image-4.png)
 ---
 
 ### Data Type Enforcement
@@ -123,8 +122,7 @@ I corrected column data types:
 * Sales Amount → Numeric
 
 📌 **Screenshot 6 (Task 3): Data Type Enforcement**
-➡️ Screenshot showing the “Changed Type” step in Applied Steps.
-
+![alt text](image-5.png), ![alt text](image-6.png)
 ---
 
 ### Handling Missing Values (Business Justification)
@@ -156,8 +154,7 @@ Instead of keeping unreliable entries, I replaced it with a calculated metric:
 This is logically consistent because both fields already exist.
 
 📌 **Screenshot 7 (Task 3): Calculated Sales Amount Column**
-➡️ Screenshot showing Custom Column formula: Quantity * Unit Price.
-
+![alt text](image-7.png)
 ---
 
 ### Quantity Errors
@@ -195,11 +192,10 @@ After cleaning, I merged:
 I used **Left Outer Join** to ensure no sales records were dropped unintentionally.
 
 📌 **Screenshot 8 (Task 4): Merge Operation Window**
-➡️ Screenshot of Merge Queries dialog showing join keys and Left Outer Join.
+![alt text](image-8.png)
 
 📌 **Screenshot 9 (Task 4): Expanded Columns After Merge**
-➡️ Screenshot showing expanded Product/Region fields in the sales table.
-
+![alt text](image-9.png)
 ---
 
 ---
@@ -231,8 +227,7 @@ Grouped sales into:
 based on TotalSales thresholds.
 
 📌 **Screenshot 10 (Task 5): Profit or TotalSales Column Step**
-➡️ Screenshot of Applied Steps showing the Profit custom column.
-
+![alt text](image-10.png)
 ---
 
 ---
@@ -251,10 +246,10 @@ I also created an aggregated summary table:
 * Total Sales by Country (Group By)
 
 📌 **Screenshot 11 (Task 6): Dimension Table Query**
-➡️ Screenshot showing dimProducts query with duplicates removed.
+![alt text](image-11.png)
 
 📌 **Screenshot 12 (Task 6): Aggregated Group By Table**
-➡️ Screenshot of Group By step (Sales by Country).
+![alt text](image-12.png)
 
 ---
 
@@ -273,10 +268,10 @@ To ensure professional BI governance:
 * I disabled load for staging queries so only clean tables enter the model.
 
 📌 **Screenshot 13 (Task 7): Audit Query Filter**
-➡️ Screenshot showing audit_InvalidRecords query with filters applied.
+![alt text](image-13.png)
 
 📌 **Screenshot 14 (Task 7): Load Disabled for Staging Tables**
-➡️ Screenshot showing right-click → Enable Load unchecked.
+![alt text](image-14.png)
 
 ---
 
