@@ -2,7 +2,9 @@
 # **Assignment 2 – Business Intelligence Report**
 
 ## **Power Query Data Preparation Lab**
-
+**Note:** the entire powerBI file is located in the Submission folder:
+[SubmissionZip](PowerBI_FIles/Submission)
+- Also included in the folder is a non zipped copy in case there are issues with unzipping
 ---
 
 ## **Task 1: Data Ingestion & Staging**
