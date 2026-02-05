@@ -233,8 +233,7 @@ based on TotalSales thresholds.
 ---
 
 ## **Task 6: Dimension Tables & Aggregation**
-
-I created dimension tables for a star schema:
+This step was done earlier when i was trying to merge the tables using a left join, however following the instructions, I created dimension tables for a star schema:
 
 * dimProducts (unique product list)
 * dimRegions (unique countries/regions)
@@ -249,7 +248,7 @@ I also created an aggregated summary table:
 ![alt text](image-11.png)
 
 📌 **Screenshot 12 (Task 6): Aggregated Group By Table**
-![alt text](image-12.png)
+![alt text](image-15.png)
 
 ---
 
