@@ -30,6 +30,7 @@ I classified the queries as follows:
 * **stagedRegions** → Lookup Table (country-to-region mapping)
 
 📌 **Screenshot 1 (Task 1): Query Organization**
+
 ![alt text](image.png)
 ---
 
@@ -74,9 +75,11 @@ To handle invalid quantities, I created a flag column using an IF condition:
 * Else → Valid
 
 📌 **Screenshot 2 (Task 2): Column Profiling Evidence**
+
 ![alt text](image-1.png)
 
 📌 **Screenshot 3 (Task 2): Flag Column Step**
+
 ![alt text](image-2.png)
 
 ---
@@ -89,11 +92,10 @@ In this step, I cleaned and standardized all datasets to make them analysis-read
 
 ### Removed Unnecessary Columns
 
-I removed irrelevant columns such as:
-
-* Sales Rep (not required for analysis)
+I removed irrelevant columns
 
 📌 **Screenshot 4 (Task 3): Removed Columns Step**
+
 ![alt text](image-3.png)
 
 ---
@@ -109,6 +111,7 @@ I applied **Trim** and **Clean** transformations to multiple text fields:
 * Branch → Cleaned, Trimmed, Capitalized Each Word
 
 📌 **Screenshot 5 (Task 3): Text Cleaning Step**
+
 ![alt text](image-4.png)
 ---
 
@@ -122,6 +125,7 @@ I corrected column data types:
 * Sales Amount → Numeric
 
 📌 **Screenshot 6 (Task 3): Data Type Enforcement**
+
 ![alt text](image-5.png), ![alt text](image-6.png)
 ---
 
@@ -227,13 +231,14 @@ Grouped sales into:
 based on TotalSales thresholds.
 
 📌 **Screenshot 10 (Task 5): Profit or TotalSales Column Step**
+
 ![alt text](image-10.png)
 ---
 
 ---
 
 ## **Task 6: Dimension Tables & Aggregation**
-This step was done earlier when i was trying to merge the tables using a left join, however following the instructions, I created dimension tables for a star schema:
+I created dimension tables for a star schema:
 
 * dimProducts (unique product list)
 * dimRegions (unique countries/regions)
@@ -245,9 +250,11 @@ I also created an aggregated summary table:
 * Total Sales by Country (Group By)
 
 📌 **Screenshot 11 (Task 6): Dimension Table Query**
+
 ![alt text](image-11.png)
 
 📌 **Screenshot 12 (Task 6): Aggregated Group By Table**
+
 ![alt text](image-15.png)
 
 ---
@@ -267,9 +274,11 @@ To ensure professional BI governance:
 * I disabled load for staging queries so only clean tables enter the model.
 
 📌 **Screenshot 13 (Task 7): Audit Query Filter**
+
 ![alt text](image-13.png)
 
 📌 **Screenshot 14 (Task 7): Load Disabled for Staging Tables**
+
 ![alt text](image-14.png)
 
 ---
@@ -283,3 +292,5 @@ The final output is an analysis-ready star schema model with supporting audit an
 
 ---
 
+## **Bonus Report**
+![alt text](image-16.png)
