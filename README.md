@@ -72,6 +72,17 @@ An advanced Power Query transformation project demonstrating professional data g
 
 ---
 
+### Quiz 1: Quick Assessment
+
+A short Power BI quiz covering core concepts and a small lab exercise.
+
+**Deliverables:**
+- a single pdf with all Quiz one requirements
+
+[View Quiz 1 Details](Quiz_1/Tanveer_DSA3050A%20Quiz%201%20Submission.pdf)
+
+---
+
 ## Repository Structure
 
 \\\
@@ -86,6 +97,8 @@ Business_Intelligence_PowerBi-Labs/
     README.md                 # Assignment 2 documentation
     image-1.png to image-14.png # Step-by-step transformation screenshots
     screenshot1.png           # Overview screenshot
+ Quiz_1/
+     [text](<Quiz_1/Tanveer_DSA3050A Quiz 1 Submission.pdf>)
  LICENSE                       # Repository license
  README.md                     # This file
 \\\
