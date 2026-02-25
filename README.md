@@ -83,6 +83,11 @@ A short Power BI quiz covering core concepts and a small lab exercise.
 
 ---
 
+### Assignment 2: Power Query Data Preparation Lab
+
+---
+
+
 ## Repository Structure
 
 \\\
