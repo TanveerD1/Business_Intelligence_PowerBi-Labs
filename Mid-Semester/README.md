@@ -8,6 +8,14 @@
 
 ---
 
+## **Submission PDF is below**
+[** 👉Midterm Submission PDF**](Tanveer_PowerBI-MIDSEM.pdf)
+
+## 🔗 Live Dashboard
+👉 https://app.powerbi.com/links/VygqYQWzGS?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare
+
+- Please note that this README is only a Summary for the full Submission above, which is stored as a PDF, and should not be considered the actual SUBMISSION.
+
 # 📌 Project Overview
 
 This project demonstrates a complete end-to-end Business Intelligence workflow using Power BI.
