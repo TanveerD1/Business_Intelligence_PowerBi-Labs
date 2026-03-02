@@ -12,6 +12,9 @@
 [** 👉Midterm Submission PDF**](Tanveer_PowerBI-MIDSEM.pdf)
 
 ## 🔗 Live Dashboard
+<iframe title="midSemTanveer" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWRjNDdiY2EtZGFkNC00N2QxLTk2OWUtMTIwMTk0NjdmYjE3IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
+if this doesnt work try :
 👉 https://app.powerbi.com/links/VygqYQWzGS?ctid=16d83ee6-254a-469d-a6cc-54e2ca2313e7&pbi_source=linkShare
 
 - Please note that this README is only a Summary for the full Submission above, which is stored as a PDF, and should not be considered the actual SUBMISSION.
