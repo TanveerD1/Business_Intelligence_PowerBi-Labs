@@ -8,8 +8,6 @@
 
 **Link to DASHBOARD:** 
 
-- <iframe title="DAX_Assignment" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTg3YmRhMGItNDdlMS00NjUxLTk3MDctMWRmZmMxYWVhM2E5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
 - https://app.powerbi.com/view?r=eyJrIjoiMTg3YmRhMGItNDdlMS00NjUxLTk3MDctMWRmZmMxYWVhM2E5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
 
 ---
