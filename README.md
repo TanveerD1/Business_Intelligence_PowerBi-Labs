@@ -20,6 +20,7 @@ This repository contains laboratory assignments and projects completed during th
 | **Assignment 2** | [Power Query Lab README](Assignment_2/README.md) | [View Submission Folder](Assignment_2/PowerBI_FIles/Submission) | ✅ Complete |
 | **Mid-Semester** | [UK Accidents Analysis README](Mid-Semester/README.md) | [Tanveer_PowerBI-MIDSEM.pdf](Mid-Semester/Tanveer_PowerBI-MIDSEM.pdf) | ✅ Complete |
 | **Quiz 1** | — | [Tanveer_DSA3050A Quiz 1 Submission.pdf](Quiz_1/Tanveer_DSA3050A%20Quiz%201%20Submission.pdf) | ✅ Complete |
+| **DAX Assignment** | [Adult Income Analysis README](DAX_Assignment/README.md) | [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) | ✅ Complete |
 
 ---
 
@@ -132,6 +133,33 @@ This repository contains laboratory assignments and projects completed during th
 
 ---
 
+### DAX Assignment: Adult Income Analysis
+
+**Overview:** An advanced analytics project using the 1994 Adult Income Dataset to demonstrate proficiency in complex DAX measures, data modeling, and time intelligence.
+
+**Key Features:**
+- **Data Model Validation** - Implemented a proper star schema with a custom-built Date table for time-based analysis.
+- **Core DAX Measures** - Developed 15+ metrics including Total Individuals, High Income Counts, and Average Work Hours.
+- **Advanced Context Manipulation** - Used `CALCULATE`, `FILTER`, and `ALL` for gender gap analysis and professional contribution metrics.
+- **Complex Iterations** - Applied `SUMX` and `AVERAGEX` for multi-column aggregations and estimated income calculations.
+- **Time Intelligence** - Implemented YTD totals, Quarter-over-Quarter growth, and Same Period Last Year comparisons.
+- **Data Categorization** - Created calculated columns for multi-dimensional bucketing (Age Groups, Work Hour Categories).
+
+**Technologies Used:**
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- UC Irvine Machine Learning Repository (Adult Dataset)
+
+**Deliverables:**
+- 📋 [Full Documentation with DAX Formulas](DAX_Assignment/README.md)
+- 📊 DAX_Assignment.pbix (Power BI Desktop file)
+- 📄 [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) (Complete documentation)
+- 🖼️ 28+ step-by-step screenshots of measures and visuals
+
+**Live Dashboard:** 🔗 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTg3YmRhMGItNDdlMS00NjUxLTk3MDctMWRmZmMxYWVhM2E5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9)
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -163,6 +191,13 @@ Business_Intelligence_PowerBi-Labs/
 │
 ├── Quiz_1/
 │   └── Tanveer_DSA3050A Quiz 1 Submission.pdf  # Quiz submission
+│
+├── DAX_Assignment/
+│   ├── README.md                    # Detailed documentation with DAX formulas
+│   ├── DAX_Assignment.pbix         # Power BI Desktop file
+│   ├── PDF SUBMISSION.pdf          # Full submission PDF
+│   ├── adult_data/                  # Source dataset (UCI Adult)
+│   └── image.png through image-28.png  # DAX and visual screenshots
 │
 ├── LICENSE                          # Repository license
 ├── README.md                        # This file (main overview)
@@ -216,6 +251,7 @@ Business_Intelligence_PowerBi-Labs/
 | **Assignment 2** | Review README with screenshots, extract submission files from zip | [Folder](Assignment_2/) |
 | **Mid-Semester** | Read PDF submission for complete documentation, view live dashboard | [Folder](Mid-Semester/) |
 | **Quiz 1** | Review PDF submission document | [Folder](Quiz_1/) |
+| **DAX Assignment** | Review README for DAX formulas, open .pbix for logic, view live dashboard | [Folder](DAX_Assignment/) |
 
 ---
 
