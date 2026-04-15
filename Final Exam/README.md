@@ -1,4 +1,3 @@
-````markdown
 # 📊 DSA 3050A – Advanced Power BI Examination
 
 ## Global Superstore Sales Analytics Dashboard
@@ -739,7 +738,7 @@ The solution enables Global Superstore to:
 
 # 📁 Repository Structure
 
-```
+
 DSA3050A-Advanced-PowerBI-Exam/
 │
 ├── data/
@@ -758,11 +757,11 @@ DSA3050A-Advanced-PowerBI-Exam/
 │   └── FINAL-EXAM-Tanveer.pdf
 │
 └── README.md
-```
+
 
 ---
 
 **Course Instructor:** DSA 3050A – Business Intelligence & Data Visualization  
 **Academic Year:** 2026  
 **Submission Date:** April 2026
-````
+
