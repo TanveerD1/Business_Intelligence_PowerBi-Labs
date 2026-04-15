@@ -21,6 +21,7 @@ This repository contains laboratory assignments and projects completed during th
 | **Mid-Semester** | [UK Accidents Analysis README](Mid-Semester/README.md) | [Tanveer_PowerBI-MIDSEM.pdf](Mid-Semester/Tanveer_PowerBI-MIDSEM.pdf) | ✅ Complete |
 | **Quiz 1** | — | [Tanveer_DSA3050A Quiz 1 Submission.pdf](Quiz_1/Tanveer_DSA3050A%20Quiz%201%20Submission.pdf) | ✅ Complete |
 | **DAX Assignment** | [Adult Income Analysis README](DAX_Assignment/README.md) | [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) | ✅ Complete |
+| **Final Exam** | [Global Superstore Analytics README](Final%20Exam/README.md) | [FINAL-EXAM-Tanveer.pdf](Final%20Exam/Report/FINAL-EXAM-Tanveer.pdf) | ✅ Complete |
 
 ---
 
@@ -160,6 +161,54 @@ This repository contains laboratory assignments and projects completed during th
 
 ---
 
+### Final Exam: Global Superstore Sales Analytics Dashboard
+
+**Overview:** A comprehensive end-to-end Power BI business intelligence solution analyzing global sales performance, profitability, and return patterns for an international retail chain. This capstone project demonstrates the complete BI lifecycle from data acquisition through advanced analytics.
+
+**Problem Statement:**
+Global Superstore lacks visibility into:
+- Why profit margins vary significantly across markets
+- Which products drive high return rates
+- How seasonal patterns affect inventory planning
+- Whether marketing spend aligns with profitable segments
+
+This BI solution provides actionable insights to optimize operations and increase profitability by 15%.
+
+**Dataset Information:**
+- **Source:** Kaggle Global Superstore Dataset
+- **Records:** 51,290 Orders + 2,033 Returns + 24 People (sales representatives)
+- **Time Period:** 2011–2014
+- **Geographic Coverage:** 5 global markets
+
+**Key Features:**
+- **3 Interactive Report Pages:**
+  - Executive Summary: KPIs, sales trends, category and market breakdowns
+  - Detailed Analysis: Matrix drill-downs, decomposition tree, geographic map, top performers
+  - Insights & Performance: YTD comparisons, return rate analysis, profitability metrics
+- **12 DAX Measures:** Time intelligence, YoY comparisons, profitability calculations
+- **Star Schema Design:** 6 dimension tables optimized for analysis
+- **8+ Data Transformations:** Missing values, duplicates, data types
+- **Advanced Visualizations:** KPI cards, maps, charts, matrices, decomposition trees
+
+**Technologies Used:**
+- Power BI Desktop (June 2024+)
+- Power Query (Data Cleaning & Transformation)
+- DAX (Data Analysis Expressions - 12 custom measures)
+- Excel data source
+- Power BI Service (Publishing & Sharing)
+
+**Deliverables:**
+- 📋 [Full Documentation](Final%20Exam/README.md)
+- 📊 Power BI Desktop file with complete model
+- 📄 [FINAL-EXAM-Tanveer.pdf](Final%20Exam/Report/FINAL-EXAM-Tanveer.pdf) (Complete submission with insights)
+- 📄 writeup.docx (Supplementary documentation)
+- 🖼️ 76+ case study screenshots showing all analysis and design
+- 💾 Complete Data folder with processed datasets
+
+**Live Dashboard:** 🔗 [View Interactive Dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMmM0NTQ5MWYtNWQ1OC00ZjY5LWEzMTYtZDEzNjViNGQwNWE0IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9)
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -198,6 +247,15 @@ Business_Intelligence_PowerBi-Labs/
 │   ├── PDF SUBMISSION.pdf          # Full submission PDF
 │   ├── adult_data/                  # Source dataset (UCI Adult)
 │   └── image.png through image-28.png  # DAX and visual screenshots
+│
+├── Final Exam/
+│   ├── README.md                    # Project overview and documentation
+│   ├── Report/
+│   │   ├── FINAL-EXAM-Tanveer.pdf  # **Full submission (primary deliverable)**
+│   │   └── writeup.docx             # Supplementary documentation
+│   ├── POWER-BI/                    # Power BI Desktop file
+│   ├── Data/                        # Processed datasets
+│   └── screenshots/                 # 76+ case study and dashboard screenshots
 │
 ├── LICENSE                          # Repository license
 ├── README.md                        # This file (main overview)
@@ -252,6 +310,7 @@ Business_Intelligence_PowerBi-Labs/
 | **Mid-Semester** | Read PDF submission for complete documentation, view live dashboard | [Folder](Mid-Semester/) |
 | **Quiz 1** | Review PDF submission document | [Folder](Quiz_1/) |
 | **DAX Assignment** | Review README for DAX formulas, open .pbix for logic, view live dashboard | [Folder](DAX_Assignment/) |
+| **Final Exam** | Read PDF submission with full analysis, review screenshots, view live dashboard | [Folder](Final%20Exam/) |
 
 ---
 
@@ -275,4 +334,4 @@ For questions about repository contents, project implementations, or reproducibi
 
 **Course:** DSA3050A – Business Intelligence & Data Visualization  
 **Student:** Tanveer (752)  
-**Last Updated:** February 2026
+**Last Updated:** April 2026
