@@ -23,6 +23,7 @@ This repository contains laboratory assignments and projects completed during th
 | **DAX Assignment** | [Adult Income Analysis README](DAX_Assignment/README.md) | [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) | [📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTg3YmRhMGItNDdlMS00NjUxLTk3MDctMWRmZmMxYWVhM2E5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9) | ✅ Complete |
 | **Final Exam** | [Global Superstore Analytics README](Final%20Exam/README.md) | [FINAL-EXAM-Tanveer.pdf](Final%20Exam/Report/FINAL-EXAM-Tanveer.pdf) | [📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM0NTQ5MWYtNWQ1OC00ZjY5LWEzMTYtZDEzNjViNGQwNWE0IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9) | ✅ Complete |
 
+- Note that for the Final Exam Dashboard there are 3 pages that can be navigate from the bottom of the webpage
 ---
 
 ## 📊 Project Details
