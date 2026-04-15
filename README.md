@@ -14,14 +14,14 @@ This repository contains laboratory assignments and projects completed during th
 ## 📑 Quick Navigation
 
 ### 📌 Assignment Summaries & Links
-| Assignment | Documentation | PDF | Status |
-|------------|---------------|-----|--------|
-| **Assignment 1** | [Sales Dashboard README](Assignment_1/README.md) | [assignment_1.pdf](Assignment_1/assignment_1.pdf) | ✅ Complete |
-| **Assignment 2** | [Power Query Lab README](Assignment_2/README.md) | [View Submission Folder](Assignment_2/PowerBI_FIles/Submission) | ✅ Complete |
-| **Mid-Semester** | [UK Accidents Analysis README](Mid-Semester/README.md) | [Tanveer_PowerBI-MIDSEM.pdf](Mid-Semester/Tanveer_PowerBI-MIDSEM.pdf) | ✅ Complete |
-| **Quiz 1** | — | [Tanveer_DSA3050A Quiz 1 Submission.pdf](Quiz_1/Tanveer_DSA3050A%20Quiz%201%20Submission.pdf) | ✅ Complete |
-| **DAX Assignment** | [Adult Income Analysis README](DAX_Assignment/README.md) | [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) | ✅ Complete |
-| **Final Exam** | [Global Superstore Analytics README](Final%20Exam/README.md) | [FINAL-EXAM-Tanveer.pdf](Final%20Exam/Report/FINAL-EXAM-Tanveer.pdf) | ✅ Complete |
+| Assignment | Documentation | PDF | Power BI Dashboard | Status |
+|------------|---------------|-----|--------------------|----|
+| **Assignment 1** | [Sales Dashboard README](Assignment_1/README.md) | [assignment_1.pdf](Assignment_1/assignment_1.pdf) | [📊 View Dashboard](https://app.powerbi.com/groups/me/reports/28562300-039e-4b12-af23-b08273465ea9/964cc932e6a00dd50d4c?experience=power-bi) | ✅ Complete |
+| **Assignment 2** | [Power Query Lab README](Assignment_2/README.md) | [View Submission Folder](Assignment_2/PowerBI_FIles/Submission) | — | ✅ Complete |
+| **Mid-Semester** | [UK Accidents Analysis README](Mid-Semester/README.md) | [Tanveer_PowerBI-MIDSEM.pdf](Mid-Semester/Tanveer_PowerBI-MIDSEM.pdf) | [📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWQ0YTZmMmUtYTQ0Ni00ZjMyLWExOWMtYjM3OGI4YzQzOTdjIiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9) | ✅ Complete |
+| **Quiz 1** | — | [Tanveer_DSA3050A Quiz 1 Submission.pdf](Quiz_1/Tanveer_DSA3050A%20Quiz%201%20Submission.pdf) | — | ✅ Complete |
+| **DAX Assignment** | [Adult Income Analysis README](DAX_Assignment/README.md) | [PDF SUBMISSION.pdf](DAX_Assignment/PDF%20SUBMISSION.pdf) | [📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTg3YmRhMGItNDdlMS00NjUxLTk3MDctMWRmZmMxYWVhM2E5IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9) | ✅ Complete |
+| **Final Exam** | [Global Superstore Analytics README](Final%20Exam/README.md) | [FINAL-EXAM-Tanveer.pdf](Final%20Exam/Report/FINAL-EXAM-Tanveer.pdf) | [📊 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmM0NTQ5MWYtNWQ1OC00ZjY5LWEzMTYtZDEzNjViNGQwNWE0IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9) | ✅ Complete |
 
 ---
 
